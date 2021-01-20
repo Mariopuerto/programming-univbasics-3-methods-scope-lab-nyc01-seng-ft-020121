@@ -4,7 +4,7 @@ end
 
 
 def toadstool
-  puts 
+  puts
 end
 
 def link
