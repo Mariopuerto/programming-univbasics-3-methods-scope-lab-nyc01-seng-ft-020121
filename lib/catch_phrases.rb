@@ -1,5 +1,4 @@
 def mario
-
   puts
 end
 
@@ -9,9 +8,9 @@ def toadstool
 end
 
 def link
-
+  puts
 end
 
 def all_phrases
-
+  puts
 end
