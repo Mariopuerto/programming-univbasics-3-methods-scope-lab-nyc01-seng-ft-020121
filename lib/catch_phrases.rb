@@ -1,7 +1,8 @@
 
-def mario (phrase)
+def mario (status)
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
   puts phrase
+  phase = status
 end
 
 
