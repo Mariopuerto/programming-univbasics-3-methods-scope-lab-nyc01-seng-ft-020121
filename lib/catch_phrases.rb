@@ -8,4 +8,3 @@ describe "toadstool" do
   it "puts out 'Thank You Mario! But Our Princess Is In Another Castle!'" do
     expect{toadstool}.to output("Thank You Mario! But Our Princess Is In Another Castle!\n").to_stdout
   end
-
