@@ -1,5 +1,5 @@
 def mario
-  
+
   puts
 end
 
