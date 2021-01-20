@@ -1,4 +1,4 @@
-def mario 
+def mario
   puts "It's-a me, Mario!\n"
 end
 
