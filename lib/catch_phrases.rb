@@ -1,4 +1,4 @@
-def mario = ("It's-a me, Mario!\n")
+def mario ("It's-a me, Mario!\n")
   puts ("It's-a me, Mario!\n")
 end
 
