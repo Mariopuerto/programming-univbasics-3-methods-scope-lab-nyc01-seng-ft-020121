@@ -7,6 +7,5 @@ end
 
 def toadstool
   status = 'Its Dangerous To Go Alone! Take This.'
-  puts phrase
-  phrase = status
+  puts status
 end
