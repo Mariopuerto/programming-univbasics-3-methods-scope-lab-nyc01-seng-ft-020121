@@ -8,7 +8,7 @@ def toadstool
 end
 
 def link
-  puts 'Thank You Mario! But Our Princess Is In Another Castle!'
+  puts "It's Dangerous To Go Alone! Take This.\n"
 end
 
 def all_phrases
