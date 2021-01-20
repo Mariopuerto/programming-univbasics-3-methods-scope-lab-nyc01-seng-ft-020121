@@ -1,6 +1,6 @@
 def mario
   
-  puts 
+  puts
 end
 
 
@@ -8,10 +8,10 @@ def toadstool
   puts status
 end
 
-def link 
+def link
 
 end
 
 def all_phrases
-  
+
 end
