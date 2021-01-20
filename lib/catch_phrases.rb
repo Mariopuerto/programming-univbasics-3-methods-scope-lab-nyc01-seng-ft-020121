@@ -1,7 +1,4 @@
-def mario
-  status = 'Thank You Mario! But Our Princess Is In Another Castle!'
-  puts phrase
-end
+
 
 describe "mario" do
   it "puts out 'It's-a me, Mario!'" do
@@ -10,9 +7,6 @@ describe "mario" do
   end
 end
 
-def toadstool
-  puts status
-end
 
 describe "all_phrases" do
   it "puts out all of the previous catch phrases" do
