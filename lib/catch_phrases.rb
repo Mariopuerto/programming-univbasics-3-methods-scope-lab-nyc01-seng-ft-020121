@@ -3,7 +3,3 @@ def mario (phrase)
   puts phrase
   phrase
 end
-
-
-
-
