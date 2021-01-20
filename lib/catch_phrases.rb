@@ -1,7 +1,6 @@
-def mario (status)
-  status = 'Thank You Mario! But Our Princess Is In Another Castle!'
-  puts phrase
+def mario 
   phrase "It's-a me, Mario!"
+  puts phrase
 end
 
 
